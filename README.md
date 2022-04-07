@@ -1,2 +1,3 @@
 # Problem-Solving
-problem solving training
+This repository contains collection of problems and their solutions
+
